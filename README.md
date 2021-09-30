@@ -12,7 +12,7 @@
 
 - Base Endpoint `localhost:4000/api/v1/`
 
-| Endpoint          | Functionality          |
+| Endpoints         | Functionality          |
 | ----------------- | ---------------------- |
 | GET /token/:name  | Generate token         |
 | GET /carts        | List all cart items    |
