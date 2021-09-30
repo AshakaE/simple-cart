@@ -39,7 +39,7 @@ JavaScript
 
 - Setup the secret key :<br>
   on linux machine -`echo "module.exports = { JWT_SECRET: 'Your secret key', }; " >> config.js`<br>
-  on windows machine - create a file `config.js`in root folder and paste `module.exports = { JWT_SECRET: 'Your secret key', };` <br>
+  on windows machine - create a file `config.js` in root folder and paste `module.exports = { JWT_SECRET: 'Your secret key', };` <br>
 
 ### Usage
 
