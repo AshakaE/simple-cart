@@ -21,6 +21,8 @@
 | PUT /carts/:id    | update cart item    |
 | DELETE /carts/:id | Delete cart item    |
 
+_Pass your token as - `Bearer ${token}`_
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
