@@ -12,14 +12,14 @@
 
 - Base Endpoint `localhost:4000/api/v1/`
 
-| Endpoints         | Functionality          |
-| ----------------- | ---------------------- |
-| GET /token/:name  | Generate token         |
-| GET /carts        | List all cart items    |
-| GET /carts/:id    | List all one cart item |
-| POST /carts/      | Add new cart item      |
-| PUT /carts/:id    | update cart item       |
-| DELETE /carts/:id | Delete cart item       |
+| Endpoints         | Functionality       |
+| ----------------- | ------------------- |
+| GET /token/:name  | Generate token      |
+| GET /carts        | List all cart items |
+| GET /carts/:id    | List one cart item  |
+| POST /carts/      | Add new cart item   |
+| PUT /carts/:id    | update cart item    |
+| DELETE /carts/:id | Delete cart item    |
 
 ## Getting Started
 
